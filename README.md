@@ -12,6 +12,6 @@ There are several requisite modules that need to be installed before you can run
 
 Please ensure you have the requisite files installed (specified above). From the command line you can run the app using the following format:
 
-'''
+```
   $ python main.py website_url [output_dir]
-'''
+```
